@@ -1,0 +1,7 @@
+google-cloud-storage
+pypdf
+langchain
+langchain-google-genai
+faiss-cpu
+python-dotenv # For loading environment variables
+langchain-community
