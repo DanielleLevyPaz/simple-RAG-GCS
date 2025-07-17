@@ -186,7 +186,7 @@ your-project/
 
 | Variable | Required | Description | Example |
 |----------|----------|-------------|---------|
-| `GOOGLE_API_KEY` | Yes | Gemini API key from Google AI Studio | `AIzaSyBNvT7Fxa976z_-3uHXXOygnJfjuEO6eho` |
+| `GOOGLE_API_KEY` | Yes | Gemini API key from Google AI Studio | |
 | `GCS_BUCKET_NAME` | Yes | Google Cloud Storage bucket name | `my-documents-bucket` |
 | `GCS_BLOB_NAME` | Yes | PDF file name in the bucket | `research-paper.pdf` |
 | `LOCAL_PDF_PATH` | No | Local filename for downloaded PDF | `document.pdf` (default) |
